@@ -1,3 +1,5 @@
 +            OAuthWebSecurity.RegisterFacebookClient(
 +                appId: "600689956663774",
 +                appSecret: "c5f23aeef4b72caedd36d1a88240c8dd");
+
+//from https://github.com/AcePileus/ConEvent/blob/e662b65b0544370d8d524e94b3a7e5c1593a6e7a/Facebook.txt
